@@ -50,7 +50,7 @@ class _CurrencyConverterScreenState extends State<CurrencyConverterScreen> {
                   const TextInputType.numberWithOptions(decimal: true),
               decoration: InputDecoration(
                   hintText: 'Enter amount in USD',
-                  prefixIcon: const Icon(
+                  prefixIcon: const 
                     Icons.monetization_on,
                     size: 25,
                   ),
